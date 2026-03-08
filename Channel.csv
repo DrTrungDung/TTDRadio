@@ -1,0 +1,39 @@
+ID;Group;Name;Comment;Url;Image
+01;Việt Nam;VOV1;Thời sự;https://stream.vovmedia.vn/vov-1;https://foxxradio.com/upload/vi/1671787010.png
+02;Việt Nam;VOV2;Văn hóa xã hội;https://stream.vovmedia.vn/vov-2;https://foxxradio.com/upload/vi/1671787175.png
+03;Việt Nam;VOV3;Âm nhạc;https://stream.vovmedia.vn/vov-3;https://foxxradio.com/upload/vi/1671787383.png
+04;Việt Nam;VOV4;Đông Bắc;https://stream.vovmedia.vn/vov4db;https://foxxradio.com/upload/vi/1671789125.png
+05;Việt Nam;VOV4;Tây Bắc;https://stream.vovmedia.vn/vov4tb;https://foxxradio.com/upload/vi/1671788849.png
+06;Việt Nam;VOV4;Miền Trung;https://stream.vovmedia.vn/vov4mt;https://foxxradio.com/upload/vi/1671788868.png
+07;Việt Nam;VOV4;Tây Nguyên;https://stream.vovmedia.vn/vov4tn;https://foxxradio.com/upload/vi/1671789171.png
+08;Việt Nam;VOV4;Hồ Chí Minh;https://stream.vovmedia.vn/vovgt-hcm;https://foxxradio.com/upload/vi/1671789275.png
+09;Việt Nam;VOV4;ĐB sông Cửu Long;https://stream.vovmedia.vn/vov4dbscl;https://foxxradio.com/upload/vi/1671789228.png
+10;Việt Nam;VOV5;Tin tức thế giới;https://stream.vovmedia.vn/vov5;https://foxxradio.com/upload/vi/1671788035.png
+11;Việt Nam;VOV5;English 247;https://stream.vovmedia.vn/vov247;https://foxxradio.com/upload/vi/1671788129.png
+12;Việt Nam;VOV6;Văn học nghệ thuật;https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8;https://cdn.onlineradiobox.com/img/l/5/127765.v2.png
+13;Việt Nam;VOV;Giao thông Hà Nội;https://stream.vovmedia.vn/vovgt-hn;https://foxxradio.com/upload/vi/1671787624.png
+14;Việt Nam;VOV;Giao thông HCM;https://stream.vovmedia.vn/vovgt-hcm;https://foxxradio.com/upload/vi/1671787823.png
+15;Việt Nam;VOV;Giao thông Mekong;https://stream.vovmedia.vn/vovmekong;https://foxxradio.com/upload/vi/1671788606.png
+16;Việt Nam;VOV;Giao thông Duyên Hải;https://stream.vovmedia.vn/gtduyenhai;https://foxxradio.com/upload/vi/vov-giao-thong-duyen-hai-vi.png
+17;Việt Nam;VOV FM89;Sức khỏe;https://stream.vovmedia.vn/fm89;https://foxxradio.com/upload/vi/1671787926.png
+18;Việt Nam;HÀ NỘI 96 MHz;Tin tức;http://222.252.21.96:8000/HANOI96;https://static2.mytuner.mobi/media/tvos_radios/zx4ebEYAE6.jpg
+19;Việt Nam;VOH FM 95.6 MHz;Tin tức;https://strm.voh.com.vn/radio/channel1/playlist.m3u8;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1snf9IM91K-JPIjyR8Q7drnTtBZxk64glHA&s
+20;Việt Nam;ĐÀ NẴNG;Tin tức;https://strm.voh.com.vn/radio/channel3/playlist.m3u8;https://static.wikia.nocookie.net/logos/images/6/63/Logo_DaNangRadio_FM_98%2C5MHz_-_AM_702KHz_2019.png/revision/latest/scale-to-width-down/985?cb=20250419164807&path-prefix=vi
+21;Việt Nam;GIA LAI;Tin tức;http://14.224.130.186:8000/binhdinh;https://gialaitv.vn/wp-content/uploads/2025/07/audio12.gif
+22;Việt Nam;MK Studio;Phòng thu;https://stream.zeno.fm/rrsrrts4mfhvv;https://stream-tools.zenomedia.com/content/users/agxzfnplbm8tc3RhdHNyFwsSCkF1dGhDbGllbnQYgICIssKSnQoMogEEemVubw/image/?u=1772955070549
+23;Việt Nam;TTD Studio;Nhạc & Tin tức;https://stream.zeno.fm/tckndt2pcwzuv;https://zenoimages.s3.us-west-001.backblazeb2.com/users/f18ca6ab-ce90-4282-9d2d-67727d169256/images/logo
+24;Việt Nam;ZING Bolero;Nhạc nhẹ;https://vnno-ne-3-tf-multi-playlist-zmp3.zmdcdn.me/BJ7DyJjfG_E/zhls/playback-realtime/audio/5bace800d4453d1b6454/audio.m3u8;https://m.media-amazon.com/images/I/61z4mMFC-5L.png
+25;Việt Nam;CHẠM Radio;Nhạc POP;https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/j20SDlO5EQk/zhls/playback-realtime/audio/59a2ee0ed24b3b15625a/audio.m3u8;https://cdn-icons-png.flaticon.com/512/281/281461.png
+26;Việt Nam;M Radio VN;Cổ nhạc;https://stream.zeno.fm/0trm6wrnga0uv;https://static2.mytuner.mobi/media/tvos_radios/drtsudtr6tpf.png
+27;Hải ngoại;Saigon Radio;Tin tức;https://stream.zeno.fm/fmarzyqmq0hvv;https://static2.mytuner.mobi/media/tvos_radios/311/saigon-radio.7361e788.png
+28;Hải ngoại;Tieng NUOC TOI;Tin tức;https://cast4.servcast.net/proxy/longpham2/stream;https://cdn-radiotime-logos.tunein.com/s286568q.png
+29;Hải ngoại;Youth Radio;Tin tức;https://stream.zeno.fm/umt5gqmg3reuv;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKB4ybZ02lrLb2vBAVhBa8nNbsr12gwlRueg&s
+30;Hải ngoại;Dai Phat Thanh VN;Tin tức;https://c13.radioboss.fm:18127/stream;https://kuasark.com/files/stations-logos/dai-phat-thanh-viet-nam.png
+31;Hải ngoại;KCLE;Tin tức;https://stream.zeno.fm/dw22656b8e9uv;https://play-lh.googleusercontent.com/noaDVH5uPh6fmP4rAQNVY-ZaLIDL1AkkxpPCtsH33x9pf1qJBfM5IVHKdR7lGSTQFN4
+32;Hải ngoại;KVNR;Tin tức;https://stream.zeno.fm/kxynzu2qe7duv;https://radiostationusa.fm/assets/image/radio/180/KVNR.png
+33;Hải ngoại;KVNR 480 AM;Tin tức;https://stream.zeno.fm/2znsmu8d8zquv;https://radiostationusa.fm/assets/image/radio/180/KVNR.png
+34;Hải ngoại;RFI;Tin tức;https://rfivietnamien96k.ice.infomaniak.ch/rfivietnamien-96k.mp3;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlkPInWfM21A9_DX6HScavrpXeDO8hksvDDQ&s
+35;Quốc tế;ABC News Radio;Tin tức;https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/masterhq.m3u8;https://media.info/l/o/5/5660.1430595110.png
+36;Quốc tế;BBC World News;Tin tức;https://stream.live.vc.bbcmedia.co.uk/bbc_world_service;https://logowik.com/content/uploads/images/bbc-world-news6618.jpg
+37;Quốc tế;BBC Asian Network;Tin tức;https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_asian_network.m3u8;https://media.info/l/o/4/408.1188833099.png
+38;Quốc tế;CNN International;Tin tức;https://tunein.cdnstream1.com/3519_96.mp3;https://www.radio.net/300/cnninternational.png?version=e46ee24416119ad422dfd59a967516a0f6d08168
