@@ -20,9 +20,9 @@ ID;Group;Name;Comment;Url;Image
 19;Việt Nam;VOH FM 95.6 MHz;Tin tức;https://strm.voh.com.vn/radio/channel1/playlist.m3u8;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1snf9IM91K-JPIjyR8Q7drnTtBZxk64glHA&s
 20;Việt Nam;ĐÀ NẴNG;Tin tức;https://strm.voh.com.vn/radio/channel3/playlist.m3u8;https://static.wikia.nocookie.net/logos/images/6/63/Logo_DaNangRadio_FM_98%2C5MHz_-_AM_702KHz_2019.png/revision/latest/scale-to-width-down/985?cb=20250419164807&path-prefix=vi
 21;Việt Nam;GIA LAI;Tin tức;http://14.224.130.186:8000/binhdinh;https://gialaitv.vn/wp-content/uploads/2025/07/audio12.gif
-22;Việt Nam;MK Studio;Phòng thu;https://stream.zeno.fm/rrsrrts4mfhvv;https://stream-tools.zenomedia.com/content/users/agxzfnplbm8tc3RhdHNyFwsSCkF1dGhDbGllbnQYgICIssKSnQoMogEEemVubw/image/?u=1772955070549
-23;Việt Nam;TTD Studio;Nhạc & Tin tức;https://stream.zeno.fm/tckndt2pcwzuv;https://zenoimages.s3.us-west-001.backblazeb2.com/users/f18ca6ab-ce90-4282-9d2d-67727d169256/images/logo
-24;Việt Nam;ZING Bolero;Nhạc nhẹ;https://vnno-ne-3-tf-multi-playlist-zmp3.zmdcdn.me/BJ7DyJjfG_E/zhls/playback-realtime/audio/5bace800d4453d1b6454/audio.m3u8;https://m.media-amazon.com/images/I/61z4mMFC-5L.png
+22;Việt Nam;MK Studio;Nhạc Phòng thu của MK Studio;https://stream.zeno.fm/rrsrrts4mfhvv;https://stream-tools.zenomedia.com/content/users/agxzfnplbm8tc3RhdHNyFwsSCkF1dGhDbGllbnQYgICIssKSnQoMogEEemVubw/image/?u=1772955070549
+23;Việt Nam;TTD Studio;Âm nhạc & Tin tức;https://stream.zeno.fm/tckndt2pcwzuv;https://zenoimages.s3.us-west-001.backblazeb2.com/users/f18ca6ab-ce90-4282-9d2d-67727d169256/images/logo
+24;Việt Nam;ZING Bolero;Nhạc trữ tình;https://vnno-ne-3-tf-multi-playlist-zmp3.zmdcdn.me/BJ7DyJjfG_E/zhls/playback-realtime/audio/5bace800d4453d1b6454/audio.m3u8;https://m.media-amazon.com/images/I/61z4mMFC-5L.png
 25;Việt Nam;CHẠM Radio;Nhạc POP;https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/j20SDlO5EQk/zhls/playback-realtime/audio/59a2ee0ed24b3b15625a/audio.m3u8;https://cdn-icons-png.flaticon.com/512/281/281461.png
 26;Việt Nam;M Radio VN;Cổ nhạc;https://stream.zeno.fm/0trm6wrnga0uv;https://static2.mytuner.mobi/media/tvos_radios/drtsudtr6tpf.png
 27;Hải ngoại;Saigon Radio;Tin tức;https://stream.zeno.fm/fmarzyqmq0hvv;https://static2.mytuner.mobi/media/tvos_radios/311/saigon-radio.7361e788.png
@@ -37,3 +37,4 @@ ID;Group;Name;Comment;Url;Image
 36;Quốc tế;BBC World News;Tin tức;https://stream.live.vc.bbcmedia.co.uk/bbc_world_service;https://logowik.com/content/uploads/images/bbc-world-news6618.jpg
 37;Quốc tế;BBC Asian Network;Tin tức;https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_asian_network.m3u8;https://media.info/l/o/4/408.1188833099.png
 38;Quốc tế;CNN International;Tin tức;https://tunein.cdnstream1.com/3519_96.mp3;https://www.radio.net/300/cnninternational.png?version=e46ee24416119ad422dfd59a967516a0f6d08168
+
